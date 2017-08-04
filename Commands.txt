@@ -1,0 +1,13 @@
+npm install -g react-native-cli
+E:
+cd E:\reactnative
+react-native init album
+react-native run-android
+npm install --save axios
+npm install -g eslint
+npm install --save-dev eslint-config rallycoding
+npm install eslint-config-rallycoding@3.2.0
+.eslint
+{
+"extends": "rallycoding"
+}
