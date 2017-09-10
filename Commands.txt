@@ -12,3 +12,14 @@ npm install eslint-config-rallycoding@3.2.0
 "extends": "rallycoding"
 }
 adb shell input keyevent 82
+-------------Adding/Linking fonts for IOS and Andoid at once----------------
+1.First step
+make a folder ./assets/fonts
+2.Second step
+package.json
+“rnpm”: {
+   “assets”: [“./path to your fonts”]
+}
+in our example path is - ./assets/fonts
+3.Third step
+react-native link
