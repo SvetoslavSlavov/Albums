@@ -11,3 +11,4 @@ npm install eslint-config-rallycoding@3.2.0
 {
 "extends": "rallycoding"
 }
+adb shell input keyevent 82
