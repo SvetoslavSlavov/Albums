@@ -26,3 +26,7 @@ react-native link
 ----------------------------Redux--------------------------------
 npm install --save react-redux
 npm install --save redux
+----------------------------Logger-------------------------
+npm install --save redux-logger
+---------------------------AsyncComponent------------------
+npm install --save redux-thunk
