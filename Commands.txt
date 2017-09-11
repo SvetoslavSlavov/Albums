@@ -23,3 +23,5 @@ package.json
 in our example path is - ./assets/fonts
 3.Third step
 react-native link
+----------------------------Redux--------------------------------
+npm install --save react-redux
