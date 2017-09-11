@@ -25,3 +25,4 @@ in our example path is - ./assets/fonts
 react-native link
 ----------------------------Redux--------------------------------
 npm install --save react-redux
+npm install --save redux
