@@ -30,3 +30,5 @@ npm install --save redux
 npm install --save redux-logger
 ---------------------------AsyncComponent------------------
 npm install --save redux-thunk
+-------------------------React Navigation---------------------
+npm install --save react-navigation
