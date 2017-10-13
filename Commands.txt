@@ -32,3 +32,5 @@ npm install --save redux-logger
 npm install --save redux-thunk
 -------------------------React Navigation---------------------
 npm install --save react-navigation
+-------------------------Node-Modules-Reset-------------------
+watchman watch-del-all && rm -rf node_modules/ && npm cache clean --force && npm install && npm start --reset-cache
