@@ -1,0 +1,1 @@
+https://blog.bam.tech/developper-news/change-your-react-native-app-icons-in-a-single-command-line -> add icons to the project
