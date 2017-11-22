@@ -34,3 +34,5 @@ npm install --save redux-thunk
 npm install --save react-navigation
 -------------------------Node-Modules-Reset-------------------
 watchman watch-del-all && rm -rf node_modules/ && npm cache clean --force && npm install && npm start --reset-cache
+------------------------Running-On-Simulator------------------
+react-native run-ios --simulator="iPhone 4s"
