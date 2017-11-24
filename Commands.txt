@@ -36,3 +36,5 @@ npm install --save react-navigation
 watchman watch-del-all && rm -rf node_modules/ && npm cache clean --force && npm install && npm start --reset-cache
 ------------------------Running-On-Simulator------------------
 react-native run-ios --simulator="iPhone 4s"
+----------------------Formating the Text in Visual Studio Code---------------------------
+Alt+Shift+F
