@@ -96,3 +96,5 @@ fastlane/Preview.html
 fastlane/screenshots
 
 .vscode
+--------------------------Git commit from cmd-------------------------------------------
+git commit -m 'Commit changes'
