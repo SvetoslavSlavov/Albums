@@ -38,3 +38,5 @@ watchman watch-del-all && rm -rf node_modules/ && npm cache clean --force && npm
 react-native run-ios --simulator="iPhone 4s"
 ----------------------Formating the Text in Visual Studio Code---------------------------
 Alt+Shift+F
+--------------------------Git Move to another branch locally-----------------------------
+git checkout develop
