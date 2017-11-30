@@ -98,3 +98,5 @@ fastlane/screenshots
 .vscode
 --------------------------Git commit from cmd-------------------------------------------
 git commit -m 'Commit changes'
+-------------------------After cloning the project-------------------------------------
+react-native link
