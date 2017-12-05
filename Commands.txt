@@ -100,3 +100,6 @@ fastlane/screenshots
 git commit -m 'Commit changes'
 -------------------------After cloning the project-------------------------------------
 react-native link
+------------------------Android emulator commands on mac------------------------------
+double R -> reload
+CMD + M -> Dev menu
