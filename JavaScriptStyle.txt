@@ -12,3 +12,20 @@ function Hello(name) {
 	return console.log('Hello' + name);
 }
 Hello('Svetoslav');
+//////////////////////////////No mutation good practice(don't change the value)
+var rooms = ["H1","H2","H3"];
+var newRooms = rooms.map(function (rm) {
+	if (rm === "H3") {
+	return "H4";
+	} else {
+	return rm;
+	}
+});
+newRooms; => ["H1", "H2", "H4"]
+rooms: => ["H1", "H2", "H3"]
+
+JavaScript's Map, Reduce and Filter -> https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter
+
+Persistant data structures for efficient immutable -> https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2
+Immutable.js(facebook library) -> https://facebook.github.io/immutable-js/
+https://www.youtube.com/watch?v=e-5obm1G_FY
