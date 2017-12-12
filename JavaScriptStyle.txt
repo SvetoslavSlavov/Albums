@@ -29,10 +29,26 @@ JavaScript's Map, Reduce and Filter -> https://danmartensen.svbtle.com/javascrip
 Persistant data structures for efficient immutable -> https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2
 Immutable.js(facebook library) -> https://facebook.github.io/immutable-js/
 https://www.youtube.com/watch?v=e-5obm1G_FY
-
+////////////////////////////////////Dots ES6//////////////////////////
 ///////////////////////////////////Arrow function with variable number of arguments///////////////////////
 const array = (...elements) => {
 	return elements;
 }
-array(1,2,3); // [1,2,3
+array(1,2,3); // [1,2,3]
+
+////////////////////////////////Spread operator//////////////////////////////
+const log = (...args) => {
+	console.log(...arg);
+}
+log('hello','scenic city summit');
+// hello scenic city summit
+///////////////////////////////Functional programming//////////////////////
+Input produces output
+1.Input -> arguments (the domain)
+2.Range -> return value of a function, output
+Функция в математиката е съпоставяне на определена величина, наричана аргумент, на друга величина, наричана стойност, като на всеки аргумент се съпоставя точно една стойност
+(1.Input, Аргумент)f(x) = x + 2
+f(2) = 2 + 2 = 4(2.Range, Стойност)
+
+lambda expressions, Alonzo Church pure functions small units of expressions called lamda expresions(lambda calculus -> turing complete language
 
