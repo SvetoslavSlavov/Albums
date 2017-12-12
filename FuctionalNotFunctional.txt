@@ -1,0 +1,57 @@
+1.Do everything with functions input -> output
+
+// Not functional
+var name = "Svetoslav";
+var greetings = "Hi, I'm";
+console.log(name + greetings);
+=> "Hi, I'm Svetoslav"
+
+// Functional
+function greet(name) {
+return “Hi, I’m ” + name;
+}
+greet(“Anjana”);
+=> “Hi, I’m Anjana”
+
+2.Avoid side effects use “pure” functions
+// Not pure:
+var name = “Anjana”;
+function greet() {
+console.log(“Hi, I’m ” + name);
+}
+// Pure:
+function greet(name) {
+return “Hi, I’m ” + name;
+}
+3.Use higher-order functions functions can be inputs/outputs
+function makeAdjectifier(adjective) {
+return function (string) {     
+return adjective + “ ” + string;   };
+}
+var coolifier = makeAdjectifier(“cool”);
+coolifier(“conference”);  => “cool conference”
+
+4.Don’t iterateuse map, reduce, filter
+
+5.Avoid mutabilityuse immutable data
+Mutation (bad!):
+var rooms = [“H1”, “H2”, “H3”];
+rooms[2] = “H4”;
+rooms;
+=> ["H1", "H2", "H4"]
+No mutation (good!):
+var rooms = [“H1”, “H2”, “H3”];
+Var newRooms = rooms.map(function (rm) {  
+if (rm == “H3”) { 
+return “H4”; 
+}  else { 
+return rm; 
+}});
+newRooms; 
+=> ["H1", "H2", "H4"]
+rooms; 
+=> ["H1", "H2", "H3"]
+6.Persistent data structuresfor efficient immutability 
+Mori, Immutable.js 
+
+
