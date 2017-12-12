@@ -29,6 +29,13 @@ JavaScript's Map, Reduce and Filter -> https://danmartensen.svbtle.com/javascrip
 //////////////////////////////////////////////MAP////////////////////////////////////////////////////////////////
 Map like foreach loop, that is specifically for transforming values - one input value corresponds to one "transformed" output
 value.
+Use it when: You want to translate/map all elements in an array to another set of values.
+(Example: convert Fahrenheit temps to Celsius)
+RULES:
+-> The amount of input elements is equal to the amount of output elements
+-> Your callbacks shouldn't 'mutate' values (you shouldn't modify objects or arrays directly from within your callbacks - if the input value is an object or an array, clone it instead, and modify the copy)
+-> Don't cause side-effects (You should never do anything in a map call that modifies 'state' elsewhere)
+
 -------------------------------------Example with for loop------------------------------------------------
 var numbers = [1, 2, 3, 4];
 var newNumbers = [];
