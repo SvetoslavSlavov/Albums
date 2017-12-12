@@ -26,6 +26,29 @@ rooms: => ["H1", "H2", "H3"]
 
 JavaScript's Map, Reduce and Filter -> https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter
 
+//////////////////////////////////////////////MAP////////////////////////////////////////////////////////////////
+Map like foreach loop, that is specifically for transforming values - one input value corresponds to one "transformed" output
+value.
+-------------------------------------Example with for loop------------------------------------------------
+var numbers = [1, 2, 3, 4];
+var newNumbers = [];
+
+for(var i = 0; i < numbers.length; i++) {
+    newNumbers[i] = numbers[i] * 2;
+}
+
+console.log("The doubled numbers are", newNumbers); 
+// [2, 4, 6, 8]
+--------------------------------------Example with map----------------------------------
+var numbers = [1, 2, 3, 4];
+
+var newNumbers = numbers.map(function(number){
+    return number * 2;
+});
+
+console.log("The doubled numbers are", newNumbers); 
+// [2, 4, 6, 8]
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Persistant data structures for efficient immutable -> https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2
 Immutable.js(facebook library) -> https://facebook.github.io/immutable-js/
 https://www.youtube.com/watch?v=e-5obm1G_FY
