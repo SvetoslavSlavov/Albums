@@ -1,6 +1,6 @@
 1.Do everything with functions input -> output
 
-// Not functional
+// Not functional (imperative programming (In imperative languages you tell the computer how to change bits, bytes and words in it's memory and in what order. In functional ones, we tell the computer what things, actions etc. are.))
 var name = "Svetoslav";
 var greetings = "Hi, I'm";
 console.log(name + greetings);
