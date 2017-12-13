@@ -59,7 +59,7 @@ var n = newRoom.map(num => {
     } else {
 		return num;
     }
-})
+});
 6.Persistent data structuresfor efficient immutability 
 Mori, Immutable.js 
 
