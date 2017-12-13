@@ -51,6 +51,15 @@ newRooms;
 => ["H1", "H2", "H4"]
 rooms; 
 => ["H1", "H2", "H3"]
+
+es6 
+var n = newRoom.map(num => {
+	if(num==='H3') {
+		return 'r3';
+    } else {
+		return num;
+    }
+})
 6.Persistent data structuresfor efficient immutability 
 Mori, Immutable.js 
 
