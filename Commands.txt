@@ -103,3 +103,5 @@ react-native link
 ------------------------Android emulator commands on mac------------------------------
 double R -> reload
 CMD + M -> Dev menu
+----------------------Visual Studio Code Debugging-----------------------------------
+https://www.undefinednull.com/2016/04/21/debugging-react-native-apps-using-visual-studio-code/ 
