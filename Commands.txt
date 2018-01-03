@@ -110,3 +110,20 @@ https://stackoverflow.com/questions/35924721/how-to-update-version-number-of-rea
 https://facebook.github.io/react-native/docs/signed-apk-android.html
 --------------------------Generating Apk Release-------------------------------------
 https://www.youtube.com/watch?v=cUIOyVUquFI
+--------------------------React Native Maps For Android-----------------------------
+google api -> Google Console -> Google Maps -> Creaditians -> Android App -> package name from AndroidManifest.xml
+-> SHA-1 certificate fingerprint from https://stackoverflow.com/questions/27609442/how-to-get-the-sha-1-fingerprint-certificate-in-android-studio-for-debug-mode -> In the home page Add APIs -> Enable
+ 
+code -> add in Android
+<activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyDvoeaHw69YbSStqDZIcMKdT9efeLTFCOY" />
+            
