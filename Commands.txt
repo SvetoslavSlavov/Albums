@@ -108,3 +108,5 @@ https://www.undefinednull.com/2016/04/21/debugging-react-native-apps-using-visua
 --------------------------Android Releasing------------------------------------------
 https://stackoverflow.com/questions/35924721/how-to-update-version-number-of-react-native-app
 https://facebook.github.io/react-native/docs/signed-apk-android.html
+--------------------------Generating Apk Release-------------------------------------
+https://www.youtube.com/watch?v=cUIOyVUquFI
