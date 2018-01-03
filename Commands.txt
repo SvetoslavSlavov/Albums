@@ -126,4 +126,6 @@ code -> add in Android
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
             android:value="AIzaSyDvoeaHw69YbSStqDZIcMKdT9efeLTFCOY" />
-            
+-----------------------------------Android adding apk to device-----------------------------------------
+Apk install -> http://www.apkinstall.com/
+QR Droid Code Scanner -> https://play.google.com/store/apps/details?id=la.droid.qr&hl=bg
