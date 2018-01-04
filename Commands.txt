@@ -129,3 +129,5 @@ code -> add in Android
 -----------------------------------Android adding apk to device-----------------------------------------
 Apk install -> http://www.apkinstall.com/
 QR Droid Code Scanner -> https://play.google.com/store/apps/details?id=la.droid.qr&hl=bg
+----------------------------------Get the adress in google maps with lat and lang-------------
+https://developers.google.com/places/ios-api/
