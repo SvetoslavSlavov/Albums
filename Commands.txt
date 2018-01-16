@@ -135,3 +135,5 @@ https://developers.google.com/places/ios-api/
 https://stackoverflow.com/questions/41943191/how-to-use-zindex-in-react-native
 ---------------------------------Crash Report Android----------------------------------
 cd android && ./gradlew assembleDebug --info
+---------------------------------React Native Video Bug Ios Solution-------------------
+https://github.com/react-native-community/react-native-video/issues/549
