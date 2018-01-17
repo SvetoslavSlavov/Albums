@@ -137,3 +137,5 @@ https://stackoverflow.com/questions/41943191/how-to-use-zindex-in-react-native
 cd android && ./gradlew assembleDebug --info
 ---------------------------------React Native Video Bug Ios Solution-------------------
 https://github.com/react-native-community/react-native-video/issues/549
+---------------------------------Adding icons to the project---------------------------
+https://blog.bam.tech/developper-news/change-your-react-native-app-icons-in-a-single-command-line
