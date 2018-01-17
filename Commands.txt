@@ -139,3 +139,8 @@ cd android && ./gradlew assembleDebug --info
 https://github.com/react-native-community/react-native-video/issues/549
 ---------------------------------Adding icons to the project---------------------------
 https://blog.bam.tech/developper-news/change-your-react-native-app-icons-in-a-single-command-line
+-----------------------------------Pulling changes without pushing your changes-----------
+git stash
+git stash pop
+----------------------------------Pulling changes with deleting your changes--------------
+git checkout
