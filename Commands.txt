@@ -148,3 +148,10 @@ git checkout
 android - 2048x2048
 ios - 2732x2732
 ionic framework - https://ionicframework.com/
+npm install -g ionic cordova
+ionic start cutePuppyPics
+
+Change splash.png with my picture with the same name
+ionic cordova resources 
+ionic cordova resources ios
+ionic cordova resources android
