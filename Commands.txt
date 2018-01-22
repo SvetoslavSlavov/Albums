@@ -155,3 +155,7 @@ Change splash.png with my picture with the same name
 ionic cordova resources 
 ionic cordova resources ios
 ionic cordova resources android
+
+-------------------------------------------------React Native OneSignal-------------------------------------------------------
+geektimecoil/react-native-onesignal 
+https://medium.com/differential/react-native-push-notifications-with-onesignal-9db6a7d75e1e - OneSignal
