@@ -159,3 +159,4 @@ ionic cordova resources android
 -------------------------------------------------React Native OneSignal-------------------------------------------------------
 geektimecoil/react-native-onesignal 
 https://medium.com/differential/react-native-push-notifications-with-onesignal-9db6a7d75e1e - OneSignal
+https://documentation.onesignal.com/docs/react-native-sdk-setup - Push Notifications
