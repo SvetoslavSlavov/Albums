@@ -164,3 +164,10 @@ https://documentation.onesignal.com/docs/react-native-sdk-setup - Push Notificat
 -----------------------Method does not override or implement a method from a supertype @Override Problem-----------------
 https://github.com/rebeccahughes/react-native-device-info/issues/213
 yarn upgrade react-native-device-info
+-------------------------------------------Splash screens Android--------------------------------------------------------
+https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae
+---------------------------------------------Splash screens Ios----------------------------------------------------------
+LauchScreen.xib -> Image -> Image View -> Image View -> Image
+Add new constrains -> click 
+Horizontal in Container
+Vertical in Container
