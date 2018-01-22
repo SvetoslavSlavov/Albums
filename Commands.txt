@@ -171,3 +171,4 @@ LauchScreen.xib -> Image -> Image View -> Image View -> Image
 Add new constrains -> click 
 Horizontal in Container
 Vertical in Container
+https://stackoverflow.com/questions/31025261/how-to-set-a-launch-screen-image-in-xcode
