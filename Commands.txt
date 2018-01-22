@@ -160,3 +160,7 @@ ionic cordova resources android
 geektimecoil/react-native-onesignal 
 https://medium.com/differential/react-native-push-notifications-with-onesignal-9db6a7d75e1e - OneSignal
 https://documentation.onesignal.com/docs/react-native-sdk-setup - Push Notifications
+
+-----------------------Method does not override or implement a method from a supertype @Override Problem-----------------
+https://github.com/rebeccahughes/react-native-device-info/issues/213
+yarn upgrade react-native-device-info
