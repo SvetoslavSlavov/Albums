@@ -172,3 +172,6 @@ Add new constrains -> click
 Horizontal in Container
 Vertical in Container
 https://stackoverflow.com/questions/31025261/how-to-set-a-launch-screen-image-in-xcode
+-----------------------------------------Visual Studio Code command code .-----------------------------------------------
+Open VS Code Command Palette ⇧⌘P type shell command
+https://stackoverflow.com/questions/29955500/code-not-working-in-command-line-for-visual-code-studio-on-osx-mac
