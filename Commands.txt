@@ -175,3 +175,9 @@ https://stackoverflow.com/questions/31025261/how-to-set-a-launch-screen-image-in
 -----------------------------------------Visual Studio Code command code .-----------------------------------------------
 Open VS Code Command Palette ⇧⌘P type shell command
 https://stackoverflow.com/questions/29955500/code-not-working-in-command-line-for-visual-code-studio-on-osx-mac
+-----------------------------------------For Very Bad Git situations----------------------------------------
+.git folder delete
+git init .
+git remote add origin <remote_repo_url>
+git commit -m ""
+git push origin master --force
