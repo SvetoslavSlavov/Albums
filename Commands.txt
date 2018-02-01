@@ -181,3 +181,13 @@ git init .
 git remote add origin <remote_repo_url>
 git commit -m ""
 git push origin master --force
+---------------------------------------Android Gradle Dependecies Problems------------------------------------
+Solution 1 -> watchman dell and nodu modules and cache command
+Solution 2 -> Delete -> android -> build folder and app -> build folder
+Solution 3 -> File -> Invalidate Caches / Restart
+Solution 4 -> 
+react-native unlink react-native-permission && npm uninstall react-native-permission
+npm install react-native-permission && react-native link react-native-permission
+Solution 5 -> cd android/ && ./gradlew clean 
+cd .. && react-native run-android
+Solution 6 -> https://medium.com/@suchydan/how-to-solve-google-play-services-version-collision-in-gradle-dependencies-ef086ae5c75f
