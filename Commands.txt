@@ -214,3 +214,17 @@ git branch -d [name_of_your_new_branch]
 git branch -D [name_of_your_new_branch]
 -----------------------------------Delete the branch on github---------------------------------------------
 git push origin :[name_of_your_new_branch]
+-----------------------------------Creating a feature branch----------------------------------------------
+$ git checkout -b myfeature develop
+Switched to a new branch "myfeature"
+-------------------------Incorporating a finished feature on develop--------------------------------------
+git checkout develop
+Switched to branch 'develop'
+git merge --no-ff myfeature
+Updating ea1b82a..05e9557
+(Summary of changes)
+git branch -d myfeature
+Deleted branch myfeature (was 05e9557).
+git push origin develop
+-------------------------------Great article about git management-----------------------------------------
+http://nvie.com/posts/a-successful-git-branching-model/
