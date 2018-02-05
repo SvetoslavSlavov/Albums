@@ -228,3 +228,48 @@ Deleted branch myfeature (was 05e9557).
 git push origin develop
 -------------------------------Great article about git management-----------------------------------------
 http://nvie.com/posts/a-successful-git-branching-model/
+--------------------------------After Splash Screen White Color-------------------------------------------
+https://peterminarik.tumblr.com/post/153039209421/how-to-fix-the-initial-white-flash-in-your-react
+/**
+ * Copyright (c) 2015-present, Facebook, Inc.
+ * All rights reserved.
+ *
+ * This source code is licensed under the BSD-style license found in the
+ * LICENSE file in the root directory of this source tree. An additional grant
+ * of patent rights can be found in the PATENTS file in the same directory.
+ */
+
+#import "AppDelegate.h"
+
+#import <React/RCTBundleURLProvider.h>
+#import <React/RCTRootView.h>
+
+@implementation AppDelegate
+
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
+{
+  NSURL *jsCodeLocation;
+
+  jsCodeLocation = [[RCTBundleURLProvider sharedSettings] jsBundleURLForBundleRoot:@"index" fallbackResource:nil];
+
+  UIView *backgroundView = [[[NSBundle mainBundle] loadNibNamed:@"LaunchScreen" owner:self options:nil] firstObject];
+  RCTRootView *rootView = [[RCTRootView alloc] initWithBundleURL:jsCodeLocation
+                                                      moduleName:@"DrinkAndDrive"
+                                               initialProperties:nil
+                                                   launchOptions:launchOptions];
+  // rootView.backgroundColor = [[UIColor alloc] initWithRed:1.0f green:1.0f blue:1.0f alpha:1];
+  
+  rootView.backgroundColor = [UIColor clearColor];
+
+  self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+  UIViewController *rootViewController = [UIViewController new];
+  rootViewController.view = backgroundView;
+  self.window.rootViewController = rootViewController;
+  [self.window makeKeyAndVisible];
+  [backgroundView addSubview:rootView];
+  rootView.frame = backgroundView.frame;
+  return YES;
+}
+
+@end
+
