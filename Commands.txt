@@ -275,4 +275,5 @@ https://peterminarik.tumblr.com/post/153039209421/how-to-fix-the-initial-white-f
 
 -----------------------------------If i use windows Bash command line/terminal------------------------------------------------
 https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/
-
+-------------------------------------Expo React Native------------------------------------------------------------------------
+https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html
