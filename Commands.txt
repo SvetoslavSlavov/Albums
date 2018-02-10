@@ -273,3 +273,6 @@ https://peterminarik.tumblr.com/post/153039209421/how-to-fix-the-initial-white-f
 
 @end
 
+-----------------------------------If i use windows Bash command line/terminal------------------------------------------------
+https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/
+
