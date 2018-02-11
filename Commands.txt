@@ -279,3 +279,5 @@ https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-
 https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html
 ----------------------------------------Bugsnag for error reports-------------------------------------------------------------
 https://www.bugsnag.com
+---------------------Analyzer issues: Analyze Base/RCTModuleMethod.mm Analyze Modules/RCTUIManager.m--------------------------
+rm -rf node_modules && rm -rf ~/.rncache && yarn
