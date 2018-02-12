@@ -281,3 +281,5 @@ https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react
 https://www.bugsnag.com
 ---------------------Analyzer issues: Analyze Base/RCTModuleMethod.mm Analyze Modules/RCTUIManager.m--------------------------
 rm -rf node_modules && rm -rf ~/.rncache && yarn
+---------------------------------------Change the navigation title---------------------------------------------------------
+https://github.com/react-navigation/react-navigation/issues/1746
