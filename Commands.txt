@@ -283,3 +283,5 @@ https://www.bugsnag.com
 rm -rf node_modules && rm -rf ~/.rncache && yarn
 ---------------------------------------Change the navigation title---------------------------------------------------------
 https://github.com/react-navigation/react-navigation/issues/1746
+---------------------------------------Creating file from the terminal------------------------------------------------------
+touch File.js
