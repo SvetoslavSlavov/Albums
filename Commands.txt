@@ -285,3 +285,6 @@ rm -rf node_modules && rm -rf ~/.rncache && yarn
 https://github.com/react-navigation/react-navigation/issues/1746
 ---------------------------------------Creating file from the terminal------------------------------------------------------
 touch File.js
+--------------------------------------Change the remote repo--------------------------------------------------------------
+https://help.github.com/articles/changing-a-remote-s-url/
+
