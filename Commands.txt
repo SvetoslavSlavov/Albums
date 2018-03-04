@@ -291,3 +291,5 @@ https://help.github.com/articles/changing-a-remote-s-url/
 keytool -list -v -keystore /Users/svetoslavslavov/Downloads/DrinkAndDrive/my-release-key.keystore
 ------------------------------React Native app responsiveness on a keyword popup--------------------------------
 https://facebook.github.io/react-native/docs/keyboardavoidingview.html
+-------------------------------------In memoty temporary storing with Singleton object--------------------------------------
+https://stackoverflow.com/questions/44719103/singleton-object-in-react-native
