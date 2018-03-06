@@ -293,3 +293,5 @@ keytool -list -v -keystore /Users/svetoslavslavov/Downloads/DrinkAndDrive/my-rel
 https://facebook.github.io/react-native/docs/keyboardavoidingview.html
 -------------------------------------In memoty temporary storing with Singleton object--------------------------------------
 https://stackoverflow.com/questions/44719103/singleton-object-in-react-native
+-------------------------------Disable Landscape orientation android react native------------------------------------------
+https://stackoverflow.com/questions/34078354/how-to-disable-landscape-mode-in-react-native-android-dev-mode
