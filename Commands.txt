@@ -295,3 +295,5 @@ https://facebook.github.io/react-native/docs/keyboardavoidingview.html
 https://stackoverflow.com/questions/44719103/singleton-object-in-react-native
 -------------------------------Disable Landscape orientation android react native------------------------------------------
 https://stackoverflow.com/questions/34078354/how-to-disable-landscape-mode-in-react-native-android-dev-mode
+-------------------------------------iPhone Simulator suddenly running low------------------------------------------------
+https://stackoverflow.com/questions/15348699/iphone-simulator-suddenly-started-running-very-slow
