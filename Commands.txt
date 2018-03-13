@@ -297,3 +297,11 @@ https://stackoverflow.com/questions/44719103/singleton-object-in-react-native
 https://stackoverflow.com/questions/34078354/how-to-disable-landscape-mode-in-react-native-android-dev-mode
 -------------------------------------iPhone Simulator suddenly running low------------------------------------------------
 https://stackoverflow.com/questions/15348699/iphone-simulator-suddenly-started-running-very-slow
+---------------------------------------------App has stopped Android---------------------------------------------------
+adb logcat
+ReactNativeJS: TypeError: undefined is not a function (evaluating 'babelHelpers.objectDestructuringEmpty(e)')
+There does not have to be an empty objests in the components!!!!!!
+const Hr = ({}) => (
+    <View style={styles.border} />
+);
+remove {}!!!!!!!!!!!!
