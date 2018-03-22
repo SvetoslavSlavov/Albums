@@ -313,3 +313,5 @@ https://stackoverflow.com/questions/37090135/to-run-dex-in-process-the-gradle-da
 gradle.properties -> org.gradle.jvmargs=-Xmx4608M
 ----------------------------------------Change git commit message after push(to origin...)---------------------------------
 https://stackoverflow.com/questions/8981194/changing-git-commit-message-after-push-given-that-no-one-pulled-from-remote
+---------------------------------------------Initial Route after log in----------------------------------------------------
+https://github.com/react-navigation/react-navigation/issues/1878
