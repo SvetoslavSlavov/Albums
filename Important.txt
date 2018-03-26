@@ -1,1 +1,106 @@
 https://blog.bam.tech/developper-news/change-your-react-native-app-icons-in-a-single-command-line -> add icons to the project
+-----------------------------------------------Typecasting? Coercion.(Принуждаване)-------------------------------------------
+const x = 42;
+const explicit = String(x); // Explicit === '42' I am going to tell you exactly what i want with wrapping it with that type and give it to me. (Категотичен)
+const implicit = x + "";  // Implicit === '42' I am going to rely on the behavior of JavaScript in order to get this to a string. (Скрит)  
+-----------------------------------------------== and ===---------------------------------------------------------------------
+== coerces the types 42 == '42'
+=== requires equivalent types 42 === 42
+typeof x -> what type is it
+typeof null -> object
+--------------------------------------------Which values are falsy?-----------------------------------------------------------
+undefined
+null
+false
++0, -0, NaN
+""
+------------------------------------------Which values are truthy?------------------------------------------------------------
+{}
+[]
+Everything else
+-------------------------------------------Primitive vs Objects---------------------------------------------------------------
+Primitive are immutable
+-> If we want to change them we are replacing them with a new value rather than changing themselves. When you create a primitive you can't actually be changed. When you want to change something, you actually create a new primitive and replace the old one. 
+Objects are mutable
+-> They are stored by reference (we store a reference to the object and change what is held there without changing where is located in the memory). We can change that object.
+----------------------------------------------Create a Object-----------------------------------------------------------------
+const o = new Object()
+o.firstName = 'Jordan'
+o.lastName = 'Havashi'
+o.isTeaching = true
+o.greet = function () {
+  console.log('hi')
+}
+
+object literal -> prefered way
+const o2 = {}
+o2['lastName'] = 'Hayashi'
+const key = 'isTeaching'
+o2[key] = true
+o2['greet'] = function () {
+  console.log('hi!')
+}
+
+const o3 = {
+  firstName: 'Jordan',
+  lastName: 'Belford',
+  address: {
+    number: 123,
+    street: 'MainSt.'
+  }
+}
+o3.address.number // 123
+o3.address['number'] // 123
+Convencional way of getting the values of object is to use dot notations
+
+When we have dynamic key we use the second method. Key that we don't know.
+const key = 'number';
+o3.address[key];
+
+Also we can do 
+o3.addresss[number] cast to a string implicit converce
+Anything between brackets [] will be coherse into a string.
+---------------------------------------Referencing Object---------------------------------------------------------------------
+const o = {
+  a: 'a',
+  b: 'b',
+}
+
+const o2 = o;
+
+o.a = 'new value';
+
+console.log(o.a); // new value
+
+-> o and o2 are referencing to the same object
+
+----------------------------------------What if we want them to have the same values but different references?----------------
+Annoying way to type the whole thing again
+
+const o2 = {
+  a: 'a',
+  b: 'b',
+}
+
+const o2 = Object.assing({}, o) !!!it willl update both o and o2 in memory because referencing to the same object shallow copy
+// Every single argument merge to the previous one, those keys and values
+// object iteral {}
+// if there is a inner object we are doing a shalow copy blind copy setting it blinding to the other object, deep copy
+// deep copy - object in objects! 
+// check if vals are objects
+// if so copy that object (deep copy)
+// else return the value
+function deepCopy () { !!! deep copy to different objects in memory
+  const keys = Object.keys(obj)
+  const newObj = {}
+  for (int i = 0; i < keys.length; i++) {
+    if (typeof obj[keys[i]] === 'object') {
+      newObj[key] = deepCopy (obj[key])
+    } else {
+      newObject[key] = obj[key]
+    }
+  }
+  return newObject;
+}
+
+-------------------------------------------Prototypal Inheritance------------------------------------------------------------
