@@ -322,3 +322,5 @@ https://medium.com/one-more-thing-studio/caching-your-images-on-react-native-wit
 https://hackernoon.com/image-caching-in-react-native-96d8df33ca84
 ----------------------------------------------Git naming all messages------------------------------------------------------
 git commit -am
+-----------------How To Fix Gradle Error NULL VALUE IN ENTRY : INCREMENTAL FOLDER = Null In Android Studio-----------------
+https://www.youtube.com/watch?v=1FtLiIHGoxM
