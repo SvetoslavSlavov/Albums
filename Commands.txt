@@ -315,3 +315,7 @@ gradle.properties -> org.gradle.jvmargs=-Xmx4608M
 https://stackoverflow.com/questions/8981194/changing-git-commit-message-after-push-given-that-no-one-pulled-from-remote
 ---------------------------------------------Initial Route after log in----------------------------------------------------
 https://github.com/react-navigation/react-navigation/issues/1878
+------------------------------------------------React Native Cache---------------------------------------------------------
+https://medium.com/differential/building-offline-first-react-native-apps-b958acac0009
+https://github.com/timfpark/react-native-cache/issues
+https://medium.com/one-more-thing-studio/caching-your-images-on-react-native-with-expo-7bff361dbd54
