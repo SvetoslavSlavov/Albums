@@ -320,3 +320,5 @@ https://medium.com/differential/building-offline-first-react-native-apps-b958aca
 https://github.com/timfpark/react-native-cache/issues
 https://medium.com/one-more-thing-studio/caching-your-images-on-react-native-with-expo-7bff361dbd54
 https://hackernoon.com/image-caching-in-react-native-96d8df33ca84
+----------------------------------------------Git naming all messages------------------------------------------------------
+git commit -am
