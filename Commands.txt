@@ -326,3 +326,7 @@ git commit -am
 https://www.youtube.com/watch?v=1FtLiIHGoxM
 --------------------------------------Extensions for Visual Studio Code----------------------------------------------------
 https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce
+-----------------------------------------Unit testing React Native---------------------------------------------------------
+https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-1-f782c4e30101
+https://medium.com/@preslavrachev/testing-react-native-applications-part-i-jest-4869cf3fb7e
+https://medium.com/front-end-hacking/how-to-do-end-to-end-e2e-testing-for-react-native-android-using-jest-and-appium-27d75e4d831b
