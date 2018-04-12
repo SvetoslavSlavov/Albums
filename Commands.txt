@@ -332,9 +332,4 @@ https://medium.com/@preslavrachev/testing-react-native-applications-part-i-jest-
 https://medium.com/front-end-hacking/how-to-do-end-to-end-e2e-testing-for-react-native-android-using-jest-and-appium-27d75e4d831b
 https://www.youtube.com/watch?v=PbOECvvT7q4
 ----------------------------------------------Api Tests--------------------------------------------------------------------
-https://hackernoon.com/api-testing-with-jest-d1ab74005c0a
-https://river.red/testing-apis-react-redux-part-one/
-https://www.reddit.com/r/reactnative/comments/4fyml0/how_to_write_unit_tests_for_fetch/
-https://www.npmjs.com/package/jest-fetch-mock
-https://daveceddia.com/snapshot-testing-apis-with-jest/
-https://hashnode.com/post/some-useful-links-on-react-native-testing-cipnrhwmi02132z5327n72nm6
+https://github.com/facebook/create-react-app/issues/967
