@@ -335,3 +335,8 @@ https://www.youtube.com/watch?v=PbOECvvT7q4
 https://github.com/facebook/create-react-app/issues/967
 -----------------------------------------Performance Boosting--------------------------------------------------------------
 Dev Settings -> JS Dev Mode -> Disable for better performance
+-----------------------------------------Updating React Native Version-----------------------------------------------------
+1. 
+https://facebook.github.io/react-native/docs/upgrading.html
+2.
+reset nodu_modules and cache
