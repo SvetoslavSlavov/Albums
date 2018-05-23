@@ -340,3 +340,5 @@ Dev Settings -> JS Dev Mode -> Disable for better performance
 https://facebook.github.io/react-native/docs/upgrading.html
 2.
 reset nodu_modules and cache
+-------------------------------------------Authentication Flow-------------------------------------------------------------
+https://medium.com/the-react-native-log/building-an-authentication-flow-with-react-navigation-fb5de2203b5c
