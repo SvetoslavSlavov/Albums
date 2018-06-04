@@ -342,3 +342,7 @@ https://facebook.github.io/react-native/docs/upgrading.html
 reset nodu_modules and cache
 -------------------------------------------Authentication Flow-------------------------------------------------------------
 https://medium.com/the-react-native-log/building-an-authentication-flow-with-react-navigation-fb5de2203b5c
+-----------------------------------------APK Turn Dev to false android-----------------------------------------------------
+1- type it "adb shell input keyevent 82"
+2- in device -> Dev Settings
+3- Js Dev Mode -> set true in checkbox
