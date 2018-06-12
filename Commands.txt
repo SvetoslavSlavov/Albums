@@ -348,3 +348,5 @@ https://medium.com/the-react-native-log/building-an-authentication-flow-with-rea
 3- Js Dev Mode -> set true in checkbox
 -----------------------------------------Make the heap larger---------------------------------------------------------------
 android:largeHeap="true"
+----------------------------------------Pretier Auto Save-------------------------------------------------------------------
+https://medium.com/@sgroff04/configure-eslint-prettier-and-flow-in-vs-code-for-react-development-c9d95db07213
