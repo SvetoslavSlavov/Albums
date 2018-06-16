@@ -352,3 +352,5 @@ android:largeHeap="true"
 https://medium.com/@sgroff04/configure-eslint-prettier-and-flow-in-vs-code-for-react-development-c9d95db07213
 ------------------------------------------Useful Extensions Visual Studio Code----------------------------------------------
 https://www.npmjs.com/package/react-native-vscode-settings
+-------------------------------------------IntelliSense---------------------------------------------------------------------
+npm install @types/react-native --save-dev
