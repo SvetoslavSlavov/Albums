@@ -356,3 +356,5 @@ https://www.npmjs.com/package/react-native-vscode-settings
 npm install @types/react-native --save-dev
 ----------------------------------------Splice vs Slice JavaScript----------------------------------------------------------
 https://stackoverflow.com/questions/37601282/javascript-array-splice-vs-slice
+--------------------------------------------For testing something fast------------------------------------------------------
+https://stephengrider.github.io/JSPlaygrounds/
