@@ -354,3 +354,5 @@ https://medium.com/@sgroff04/configure-eslint-prettier-and-flow-in-vs-code-for-r
 https://www.npmjs.com/package/react-native-vscode-settings
 -------------------------------------------IntelliSense---------------------------------------------------------------------
 npm install @types/react-native --save-dev
+----------------------------------------Splice vs Slice JavaScript----------------------------------------------------------
+https://stackoverflow.com/questions/37601282/javascript-array-splice-vs-slice
