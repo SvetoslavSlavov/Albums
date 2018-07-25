@@ -358,3 +358,6 @@ npm install @types/react-native --save-dev
 https://stackoverflow.com/questions/37601282/javascript-array-splice-vs-slice
 --------------------------------------------For testing something fast------------------------------------------------------
 https://stephengrider.github.io/JSPlaygrounds/
+--------------------------------------------Realm installation--------------------------------------------------------------
+npm install --save realm
+react-native link realm
