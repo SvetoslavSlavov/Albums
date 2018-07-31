@@ -361,3 +361,14 @@ https://stephengrider.github.io/JSPlaygrounds/
 --------------------------------------------Realm installation--------------------------------------------------------------
 npm install --save realm
 react-native link realm
+-------------------------------------------React Native Upgrade Error Fix---------------------------------------------------
+subprojects {
+    afterEvaluate {project ->
+        if (project.hasProperty("android")) {
+            android {
+                compileSdkVersion 27
+                buildToolsVersion "27.0.2"
+            }
+        }
+    }
+}
