@@ -372,3 +372,5 @@ subprojects {
         }
     }
 }
+---------------------------------------------Rename React Native Project----------------------------------------------------
+https://www.npmjs.com/package/react-native-rename
