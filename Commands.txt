@@ -374,3 +374,5 @@ subprojects {
 }
 ---------------------------------------------Rename React Native Project----------------------------------------------------
 https://www.npmjs.com/package/react-native-rename
+----------------------------------------------------Redux Persist-----------------------------------------------------------
+https://blog.reactnativecoach.com/the-definitive-guide-to-redux-persist-84738167975
