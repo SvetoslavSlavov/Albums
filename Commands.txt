@@ -376,3 +376,5 @@ subprojects {
 https://www.npmjs.com/package/react-native-rename
 ----------------------------------------------------Redux Persist-----------------------------------------------------------
 https://blog.reactnativecoach.com/the-definitive-guide-to-redux-persist-84738167975
+----------------------------------------------------Redux Offline-----------------------------------------------------------
+https://medium.com/@ballinst/creating-an-offline-first-react-native-app-ecdf0dcd853c
