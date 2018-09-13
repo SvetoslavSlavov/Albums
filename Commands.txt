@@ -380,3 +380,11 @@ https://blog.reactnativecoach.com/the-definitive-guide-to-redux-persist-84738167
 https://medium.com/@ballinst/creating-an-offline-first-react-native-app-ecdf0dcd853c
 ----------------------------Something went wrong while linking. Error: Cannot read property 'nodeValue' of undefined-------
 https://github.com/facebook/react-native/issues/16817
+-------------------------------------------------GIT COMMANDS FROM BRANCH---------------------------------------------------------------
+git add .
+git commit -m "branch_name"
+git pull origin develop
+code . (See for issuses)
+git add .
+git commit
+git push origin branch
