@@ -388,3 +388,5 @@ code . (See for issuses)
 git add .
 git commit
 git push origin branch
+----------------------------------------------RELEASE APK INSTALL FROM TERMINAL---------------------------------------------
+adb install example.apk
