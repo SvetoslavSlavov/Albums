@@ -391,3 +391,5 @@ git push origin branch
 git checkout -b branch(troll url)
 ----------------------------------------------RELEASE APK INSTALL FROM TERMINAL---------------------------------------------
 adb install example.apk
+-----------------------------------------------------CHANGE REMOTE----------------------------------------------------------
+git remote set-url origin http://bitbucket....
