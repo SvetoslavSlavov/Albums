@@ -393,3 +393,8 @@ git checkout -b branch(troll url)
 adb install example.apk
 -----------------------------------------------------CHANGE REMOTE----------------------------------------------------------
 git remote set-url origin http://bitbucket....
+------------------------------------------------Visual Studio Code Can't Write on File--------------------------------------
+-> Remove vim extension
+-> https://stackoverflow.com/questions/45736973/unable-to-type-in-visual-studio-code
+--------------------------------------------Apple Encryption in Info.plist--------------------------------------------------
+ITSAppUsesNonExemptEncryption NO
