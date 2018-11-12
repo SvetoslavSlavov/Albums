@@ -398,3 +398,5 @@ git remote set-url origin http://bitbucket....
 -> https://stackoverflow.com/questions/45736973/unable-to-type-in-visual-studio-code
 --------------------------------------------Apple Encryption in Info.plist--------------------------------------------------
 ITSAppUsesNonExemptEncryption NO
+--------------------------------------------------DEVICE AND SIMULATOR LOGS-------------------------------------------------
+https://docs.buddybuild.com/troubleshooting/getting_device_logs_from_xcode.html
