@@ -400,3 +400,5 @@ git remote set-url origin http://bitbucket....
 ITSAppUsesNonExemptEncryption NO
 --------------------------------------------------DEVICE AND SIMULATOR LOGS-------------------------------------------------
 https://docs.buddybuild.com/troubleshooting/getting_device_logs_from_xcode.html
+-------------------------------------------------VSCODE REACT NATIVE PACKAGE------------------------------------------------
+https://www.npmjs.com/package/react-native-vscode-settings
