@@ -402,3 +402,5 @@ ITSAppUsesNonExemptEncryption NO
 https://docs.buddybuild.com/troubleshooting/getting_device_logs_from_xcode.html
 -------------------------------------------------VSCODE REACT NATIVE PACKAGE------------------------------------------------
 https://www.npmjs.com/package/react-native-vscode-settings
+-------------Динамична смяна на node версиите n – Interactively Manage Your Node.js Versions--------------------------------
+https://www.npmjs.com/package/n
