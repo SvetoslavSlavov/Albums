@@ -404,3 +404,7 @@ https://docs.buddybuild.com/troubleshooting/getting_device_logs_from_xcode.html
 https://www.npmjs.com/package/react-native-vscode-settings
 -------------Динамична смяна на node версиите n – Interactively Manage Your Node.js Versions--------------------------------
 https://www.npmjs.com/package/n
+-----------------------------------------------Problem with Android Permissions---------------------------------------------
+https://medium.com/building-with-react-native/how-to-remove-unnecessary-android-permissions-from-react-native-apps-1x05-c5c98b6c93a8
+----------------------------------------------------In App Purchase---------------------------------------------------------
+https://medium.com/building-with-react-native/how-to-remove-unnecessary-android-permissions-from-react-native-apps-1x05-c5c98b6c93a8
