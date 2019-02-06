@@ -408,3 +408,7 @@ https://www.npmjs.com/package/n
 https://medium.com/building-with-react-native/how-to-remove-unnecessary-android-permissions-from-react-native-apps-1x05-c5c98b6c93a8
 ----------------------------------------------------In App Purchase---------------------------------------------------------
 https://medium.com/building-with-react-native/how-to-remove-unnecessary-android-permissions-from-react-native-apps-1x05-c5c98b6c93a8
+-------------------------------------------------------Upgrade--------------------------------------------------------------
+https://medium.com/@oleg2014/how-to-upgrade-project-to-react-native-0-57-rn-0-57-1a7e9fd8098
+---------------------------------------------Problem with Node versions-----------------------------------------------------
+https://stackoverflow.com/questions/37461703/print-entry-cfbundleidentifier-does-not-exist
