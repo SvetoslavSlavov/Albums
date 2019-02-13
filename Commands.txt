@@ -416,3 +416,5 @@ https://stackoverflow.com/questions/37461703/print-entry-cfbundleidentifier-does
 touch ~/.bash_profile; open ~/.bash_profile
 -----------------------------------------Code command adding to bash profile------------------------------------------------
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+------------------------------------------Great Mobile Design Inspiration---------------------------------------------------
+https://www.behance.net/
