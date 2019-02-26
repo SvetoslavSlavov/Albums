@@ -420,3 +420,5 @@ export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/b
 https://www.behance.net/
 -------------------------------Common Design Patterns and Project Structures React.js---------------------------------------
 https://www.learnhowtoprogram.com/react/advanced-topics/react-and-redux-design-patterns
+--------------------------------------------------React Fragments-----------------------------------------------------------
+https://getstream.io/blog/react-fragments/
