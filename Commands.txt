@@ -418,3 +418,5 @@ touch ~/.bash_profile; open ~/.bash_profile
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 ------------------------------------------Great Mobile Design Inspiration---------------------------------------------------
 https://www.behance.net/
+-------------------------------Common Design Patterns and Project Structures React.js---------------------------------------
+https://www.learnhowtoprogram.com/react/advanced-topics/react-and-redux-design-patterns
