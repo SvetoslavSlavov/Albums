@@ -425,3 +425,5 @@ https://getstream.io/blog/react-fragments/
 -----------------------------------------------------NPX Problem------------------------------------------------------------
 sudo npm i -g npx
 https://stackoverflow.com/questions/49894620/npx-command-not-working
+----------------------------------------------------Open . in Ubuntu--------------------------------------------------------
+xdg-open .
