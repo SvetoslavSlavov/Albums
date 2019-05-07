@@ -422,3 +422,6 @@ https://www.behance.net/
 https://www.learnhowtoprogram.com/react/advanced-topics/react-and-redux-design-patterns
 --------------------------------------------------React Fragments-----------------------------------------------------------
 https://getstream.io/blog/react-fragments/
+-----------------------------------------------------NPX Problem------------------------------------------------------------
+sudo npm i -g npx
+https://stackoverflow.com/questions/49894620/npx-command-not-working
