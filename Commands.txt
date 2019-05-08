@@ -428,3 +428,7 @@ https://stackoverflow.com/questions/49894620/npx-command-not-working
 ----------------------------------------------------Open . in Ubuntu--------------------------------------------------------
 xdg-open .
 https://unix.stackexchange.com/questions/244970/opening-current-directory-from-a-terminal-onto-a-file-browser
+-------------------------------------------------watch public/favicon.ico ENOSPC--------------------------------------------
+npm cache clear
+echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+https://github.com/facebook/create-react-app/issues/2549
