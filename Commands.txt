@@ -434,3 +434,4 @@ echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo s
 https://github.com/facebook/create-react-app/issues/2549
 -------------------------------------------------TypeScript with React.js---------------------------------------------------
 https://facebook.github.io/create-react-app/docs/adding-typescript
+https://medium.com/@rossbulat/how-to-use-typescript-with-react-and-redux-a118b1e02b76
