@@ -432,3 +432,5 @@ https://unix.stackexchange.com/questions/244970/opening-current-directory-from-a
 npm cache clear
 echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
 https://github.com/facebook/create-react-app/issues/2549
+-------------------------------------------------TypeScript with React.js---------------------------------------------------
+https://facebook.github.io/create-react-app/docs/adding-typescript
