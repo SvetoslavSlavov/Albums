@@ -435,3 +435,16 @@ https://github.com/facebook/create-react-app/issues/2549
 -------------------------------------------------TypeScript with React.js---------------------------------------------------
 https://facebook.github.io/create-react-app/docs/adding-typescript
 https://medium.com/@rossbulat/how-to-use-typescript-with-react-and-redux-a118b1e02b76
+--------------------------------------------------Storybook Configuration---------------------------------------------------
+Make a folder 
+mkdir storybook
+Create a package.json
+yarn init -y 
+yarn add -D @storybook/react babel-core
+yarn add react react-dom
+mkdir .storybook src
+touch .storybook/config.js
+"scripts": {
+   "storybook": "start-storybook -p 6600 -c .storybook"
+}
+npm run storybook
