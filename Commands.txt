@@ -450,3 +450,5 @@ touch .storybook/config.js
 npm run storybook
 --------------------------------------------------START ON SPECIFIC PORT PROJECT-------------------------------------------
 https://github.com/facebook/create-react-app/issues/1083
+-----------------------------------------------------OBJECT FITS CSS TRICKS------------------------------------------------
+https://css-tricks.com/almanac/properties/o/object-fit/
