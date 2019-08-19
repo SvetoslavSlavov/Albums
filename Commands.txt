@@ -452,3 +452,5 @@ npm run storybook
 https://github.com/facebook/create-react-app/issues/1083
 -----------------------------------------------------OBJECT FITS CSS TRICKS------------------------------------------------
 https://css-tricks.com/almanac/properties/o/object-fit/
+--------------------------------------------------------SVG COLOR CHANGE---------------------------------------------------
+https://css-tricks.com/cascading-svg-fill-color/
