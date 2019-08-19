@@ -454,3 +454,5 @@ https://github.com/facebook/create-react-app/issues/1083
 https://css-tricks.com/almanac/properties/o/object-fit/
 --------------------------------------------------------SVG COLOR CHANGE---------------------------------------------------
 https://css-tricks.com/cascading-svg-fill-color/
+------------------------------------------------------Material Design Icons------------------------------------------------
+https://material.io/
