@@ -456,3 +456,5 @@ https://css-tricks.com/almanac/properties/o/object-fit/
 https://css-tricks.com/cascading-svg-fill-color/
 ------------------------------------------------------Material Design Icons------------------------------------------------
 https://material.io/
+---------------------------------------------------------ReactJS Portals---------------------------------------------------
+https://medium.com/@ishmaelsibisi/reactjs-portals-a-simple-but-useful-example-41accfb77b7c
