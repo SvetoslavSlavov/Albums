@@ -458,3 +458,5 @@ https://css-tricks.com/cascading-svg-fill-color/
 https://material.io/
 ---------------------------------------------------------ReactJS Portals---------------------------------------------------
 https://medium.com/@ishmaelsibisi/reactjs-portals-a-simple-but-useful-example-41accfb77b7c
+-----------------------------------------------------UseMemo UseCallback difference----------------------------------------
+https://stackoverflow.com/questions/54963248/whats-the-difference-between-usecallback-and-usememo-in-practice
