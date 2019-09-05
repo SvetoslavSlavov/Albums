@@ -460,3 +460,9 @@ https://material.io/
 https://medium.com/@ishmaelsibisi/reactjs-portals-a-simple-but-useful-example-41accfb77b7c
 -----------------------------------------------------UseMemo UseCallback difference----------------------------------------
 https://stackoverflow.com/questions/54963248/whats-the-difference-between-usecallback-and-usememo-in-practice
+-------------------------------------------------------useState vs useReduces----------------------------------------------
+https://www.robinwieruch.de/react-usereducer-vs-usestate
+----------------------------------------------------useState, useReducer, useContext---------------------------------------
+https://www.robinwieruch.de/react-usereducer-vs-usestate
+----------------------------------------------------------React DevTools 4-------------------------------------------------
+https://github.com/facebook/react/blob/master/packages/react-devtools/CHANGELOG.md#400-august-15-2019
