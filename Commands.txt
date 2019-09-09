@@ -466,3 +466,6 @@ https://www.robinwieruch.de/react-usereducer-vs-usestate
 https://www.robinwieruch.de/react-usereducer-vs-usestate
 ----------------------------------------------------------React DevTools 4-------------------------------------------------
 https://github.com/facebook/react/blob/master/packages/react-devtools/CHANGELOG.md#400-august-15-2019
+--------------------------------------------------Show branch and Fix the Hot Reloading------------------------------------
+https://askubuntu.com/questions/1043610/script-to-show-git-branch-in-bash-no-longer-works-on-ubuntu-18-04
+echo 100000 | sudo tee /proc/sys/fs/inotify/max_user_watches
