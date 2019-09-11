@@ -469,3 +469,7 @@ https://github.com/facebook/react/blob/master/packages/react-devtools/CHANGELOG.
 --------------------------------------------------Show branch and Fix the Hot Reloading------------------------------------
 https://askubuntu.com/questions/1043610/script-to-show-git-branch-in-bash-no-longer-works-on-ubuntu-18-04
 echo 100000 | sudo tee /proc/sys/fs/inotify/max_user_watches
+----------------------------------------------------Terminal Customization-------------------------------------------------
+https://stackoverflow.com/questions/17333531/how-can-i-display-the-current-branch-and-folder-path-in-terminal
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
