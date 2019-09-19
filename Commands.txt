@@ -473,3 +473,5 @@ echo 100000 | sudo tee /proc/sys/fs/inotify/max_user_watches
 https://stackoverflow.com/questions/17333531/how-can-i-display-the-current-branch-and-folder-path-in-terminal
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+---------------------------------------------------------Reset Commit------------------------------------------------------
+https://stackoverflow.com/questions/4850717/how-to-cancel-a-local-git-commit
