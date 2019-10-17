@@ -477,3 +477,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 https://stackoverflow.com/questions/4850717/how-to-cancel-a-local-git-commit
 -------------------------------------------------------React Children Interesting Article----------------------------------
 https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891
+------------------------------------------isClearable problem not triggaring React Select----------------------------------
+https://github.com/JedWatson/react-select/issues/2159
