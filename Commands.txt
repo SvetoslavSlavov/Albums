@@ -479,3 +479,5 @@ https://stackoverflow.com/questions/4850717/how-to-cancel-a-local-git-commit
 https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891
 ------------------------------------------isClearable problem not triggaring React Select----------------------------------
 https://github.com/JedWatson/react-select/issues/2159
+-------------------------------------------------Git Kraken Great Tool For Changing Stagged Filed--------------------------
+https://www.gitkraken.com/
