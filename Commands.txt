@@ -481,3 +481,5 @@ https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891
 https://github.com/JedWatson/react-select/issues/2159
 -------------------------------------------------Git Kraken Great Tool For Changing Stagged Filed--------------------------
 https://www.gitkraken.com/
+------------------------------------------------------React Children Add a Property----------------------------------------
+ React.cloneElement(children, { ...props, test: 'test' })
