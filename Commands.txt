@@ -489,3 +489,5 @@ https://gist.github.com/markis/705f101a549f958d62546fb966caae42#gistcomment-2674
 sudo apt install qemu-kvm
 sudo adduser <Replace with username> kvm
 sudo chown <Replace with username> /dev/kvm
+---------------------------------------------OpenJDK Ubuntu---------------------------------------------------------------
+sudo apt-get install openjdk-8-jdk
