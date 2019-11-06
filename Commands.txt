@@ -485,3 +485,7 @@ https://www.gitkraken.com/
  React.cloneElement(children, { ...props, test: 'test' })
 ----------------------------------------------------------Watchman on Ubuntu-----------------------------------------------
 https://gist.github.com/markis/705f101a549f958d62546fb966caae42#gistcomment-2674679
+-----------------------------------Android Studio grant current user access to /dev/kvm ubuntu 18.04-----------------------
+sudo apt install qemu-kvm
+sudo adduser <Replace with username> kvm
+sudo chown <Replace with username> /dev/kvm
