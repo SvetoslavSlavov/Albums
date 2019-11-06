@@ -483,3 +483,5 @@ https://github.com/JedWatson/react-select/issues/2159
 https://www.gitkraken.com/
 ------------------------------------------------------React Children Add a Property----------------------------------------
  React.cloneElement(children, { ...props, test: 'test' })
+----------------------------------------------------------Watchman on Ubuntu-----------------------------------------------
+https://gist.github.com/markis/705f101a549f958d62546fb966caae42#gistcomment-2674679
