@@ -491,3 +491,5 @@ sudo adduser <Replace with username> kvm
 sudo chown <Replace with username> /dev/kvm
 ---------------------------------------------OpenJDK Ubuntu---------------------------------------------------------------
 sudo apt-get install openjdk-8-jdk
+------------------------------MySql workbench : Access denied for user 'root'@'localhost' in linux------------------------
+https://www.youtube.com/watch?v=SJm91cvE_ks
