@@ -493,3 +493,5 @@ sudo chown <Replace with username> /dev/kvm
 sudo apt-get install openjdk-8-jdk
 ------------------------------MySql workbench : Access denied for user 'root'@'localhost' in linux------------------------
 https://www.youtube.com/watch?v=SJm91cvE_ks
+---------------------------------Making localhost https ngrok-------------------------------------------------------------
+./ngrok http 3000 -host-header="localhost:3000"
