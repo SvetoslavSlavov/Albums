@@ -495,3 +495,5 @@ sudo apt-get install openjdk-8-jdk
 https://www.youtube.com/watch?v=SJm91cvE_ks
 ---------------------------------Making localhost https ngrok-------------------------------------------------------------
 ./ngrok http 3000 -host-header="localhost:3000"
+------------------------------------------------Kill process--------------------------------------------------------------
+https://stackoverflow.com/questions/4075287/node-express-eaddrinuse-address-already-in-use-kill-server
