@@ -497,3 +497,8 @@ https://www.youtube.com/watch?v=SJm91cvE_ks
 ./ngrok http 3000 -host-header="localhost:3000"
 ------------------------------------------------Kill process--------------------------------------------------------------
 https://stackoverflow.com/questions/4075287/node-express-eaddrinuse-address-already-in-use-kill-server
+-----------------------------------------------Calc CSS-------------------------------------------------------------------
+https://developer.mozilla.org/en-US/docs/Web/CSS/calc
+------------------------------------------------VH vs %--------------------------------------------------------------------
+from parent size div(60px) -> %
+it does not matter the parrent div size -> VH
