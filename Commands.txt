@@ -502,3 +502,5 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/calc
 ------------------------------------------------VH vs %--------------------------------------------------------------------
 from parent size div(60px) -> %
 it does not matter the parrent div size -> VH
+-------------------------------------------Index Antipattern Idea-----------------------------------------------------------
+https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318
