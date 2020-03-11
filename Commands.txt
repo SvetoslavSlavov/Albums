@@ -504,3 +504,6 @@ from parent size div(60px) -> %
 it does not matter the parrent div size -> VH
 -------------------------------------------Index Antipattern Idea-----------------------------------------------------------
 https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318
+--------------------------------------------See all eslint errors in the project--------------------------------------------
+Add prettier as dev dependency
+yarn buildcheck
