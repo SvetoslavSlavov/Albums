@@ -507,3 +507,5 @@ https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318
 --------------------------------------------See all eslint errors in the project--------------------------------------------
 Add prettier as dev dependency
 yarn buildcheck
+----------------------------------If you push your last changes and you want to revert them back locally--------------------
+git reset --soft HEAD~1
