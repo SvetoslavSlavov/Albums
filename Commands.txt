@@ -509,3 +509,5 @@ Add prettier as dev dependency
 yarn buildcheck
 ----------------------------------If you push your last changes and you want to revert them back locally--------------------
 git reset --soft HEAD~1
+-------------------------------------------Flat() is not a function in JEST-------------------------------------------------
+https://stackoverflow.com/questions/57121265/flat-is-not-a-function-only-with-jest
