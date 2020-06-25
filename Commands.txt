@@ -514,3 +514,5 @@ https://stackoverflow.com/questions/57121265/flat-is-not-a-function-only-with-je
 --------------------------------How to fix your node dependencies’ es6 causing browser errors-------------------------------
 https://dev.to/errietta/-how-to-fix-your-node-dependencies-es6-causing-browser-errors-37di
 ---------------------------------------------Everything for z-index position relative---------------------------------------https://css-tricks.com/almanac/properties/z/z-index
+----------------------------------------------Kill process on port easy Ubuntu-----------------------------------------------
+fuser -n tcp -k 9001
