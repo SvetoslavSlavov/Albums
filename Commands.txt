@@ -518,3 +518,5 @@ https://dev.to/errietta/-how-to-fix-your-node-dependencies-es6-causing-browser-e
 fuser -n tcp -k 9001
 --------------------------------------------Screen recording useful tool-----------------------------------------------------
 https://screenapp.io/
+--------------------------------------------Windows Install failed with Node v.10 due to upath@1.0.4 incompatibility--------------------------------------------
+https://github.com/facebook/create-react-app/issues/4367
