@@ -520,3 +520,5 @@ fuser -n tcp -k 9001
 https://screenapp.io/
 --------------------------------------------Windows Install failed with Node v.10 due to upath@1.0.4 incompatibility--------------------------------------------
 https://github.com/facebook/create-react-app/issues/4367
+-----------------------------------------Use ternary rather than && in JSX render 0-----------------------------------------------------------------------------
+https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx?s=09
