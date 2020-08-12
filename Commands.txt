@@ -522,3 +522,5 @@ https://screenapp.io/
 https://github.com/facebook/create-react-app/issues/4367
 -----------------------------------------Use ternary rather than && in JSX render 0-----------------------------------------------------------------------------
 https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx?s=09
+--------------------------------------------------------Minmax--------------------------------------------------------------------------------------------------
+https://developer.mozilla.org/en-US/docs/Web/CSS/minmax
