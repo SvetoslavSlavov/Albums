@@ -530,3 +530,5 @@ https://localhost.run/
 pod deintegrate 
 ------------------------------------------------------------Install pods----------------------------------------------------------------------------------------
 pod install 
+---------------------------------------------------------Undo local git changes commited locally----------------------------------------------------------------
+https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git
