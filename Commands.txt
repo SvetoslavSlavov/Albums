@@ -532,3 +532,5 @@ pod deintegrate
 pod install 
 ---------------------------------------------------------Undo local git changes commited locally----------------------------------------------------------------
 https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git
+----------------------------------------------------------After update package----------------------------------------------------------------------------------
+rm -rf node_modules && yarn cache clean && yarn install && cd ios && pod deintegrate && pod install && cd
