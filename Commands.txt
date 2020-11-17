@@ -545,3 +545,5 @@ yarn start -- --reset-cache
 ------------------------------------------------Fast way to get the device UUID iOS-----------------------------------------------------------------------------
 brew install ideviceinstaller
 idevice_id -l
+---------------------------------------------------------Deep Linking-------------------------------------------------------------------------------------------
+https://blog.jscrambler.com/how-to-handle-deep-linking-in-a-react-native-app/
