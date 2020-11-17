@@ -542,3 +542,6 @@ rm -rf node_modules/ &&
 yarn cache clean &&
 yarn install && 
 yarn start -- --reset-cache
+------------------------------------------------Fast way to get the device UUID iOS-----------------------------------------------------------------------------
+brew install ideviceinstaller
+idevice_id -l
