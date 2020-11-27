@@ -547,3 +547,5 @@ brew install ideviceinstaller
 idevice_id -l
 ---------------------------------------------------------Deep Linking-------------------------------------------------------------------------------------------
 https://blog.jscrambler.com/how-to-handle-deep-linking-in-a-react-native-app/
+------------------------------------------------------Update only a specific library in yarn.lock---------------------------------------------------------------
+yarn remove react-native-video && yarn add react-native-video@5.0.0
