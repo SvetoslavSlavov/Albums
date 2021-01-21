@@ -549,3 +549,8 @@ idevice_id -l
 https://blog.jscrambler.com/how-to-handle-deep-linking-in-a-react-native-app/
 ------------------------------------------------------Update only a specific library in yarn.lock---------------------------------------------------------------
 yarn remove react-native-video && yarn add react-native-video@5.0.0
+------------------------------------------------------------User Data Instabug----------------------------------------------------------------------------------
+https://docs.instabug.com/docs/android-identify-user#user-data
+https://docs.instabug.com/docs/ios-targeting-surveys#section-auto-targeting-surveys
+------------------------------------------------------Crash reporting tool not appearing crashes iOS------------------------------------------------------------
+https://help.instabug.com/en/articles/2102267-why-aren-t-my-crashes-appearing
