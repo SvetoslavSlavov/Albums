@@ -556,3 +556,5 @@ https://docs.instabug.com/docs/ios-targeting-surveys#section-auto-targeting-surv
 https://help.instabug.com/en/articles/2102267-why-aren-t-my-crashes-appearing
 ---------------------------------------GraphQLError: Syntax Error: Expected Name, found <EOF>-------------------------------------------------------------------
 https://stackoverflow.com/questions/56847935/graphqlerror-syntax-error-expected-name-found-eof
+-------------------------------------------------------git error: invalid object Error building trees-----------------------------------------------------------
+https://panjeh.medium.com/git-error-invalid-object-error-building-trees-44b582769457
