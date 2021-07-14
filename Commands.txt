@@ -564,4 +564,5 @@ Device -> Shake
 https://stackoverflow.com/questions/36413602/cant-open-dev-menu-via-cmdd-or-reload-via-cmdr-any-longer/52026276
 -------------------------react native Cloning spec repo `cocoapods` from `https://github.com/CocoaPods/Specs.git`-----------------------------------------------
 source 'https://github.com/CocoaPods/Specs.git' to source 'https://cdn.cocoapods.org/' in Podfile
-
+----------------------------------------------Kill singe process macOS terminal------------------------------------------------------------------------------------
+kill $(lsof -ti:3000)
