@@ -566,3 +566,5 @@ https://stackoverflow.com/questions/36413602/cant-open-dev-menu-via-cmdd-or-relo
 source 'https://github.com/CocoaPods/Specs.git' to source 'https://cdn.cocoapods.org/' in Podfile
 ----------------------------------------------Kill singe process macOS terminal------------------------------------------------------------------------------------
 kill $(lsof -ti:3000)
+----------------------------------------------Gradle sync failed with reason unknown-------------------------------------------------------------------------------
+https://stackoverflow.com/questions/68173478/gradle-sync-failed-with-reason-unknown-android-studio4-2-1
