@@ -568,3 +568,4 @@ source 'https://github.com/CocoaPods/Specs.git' to source 'https://cdn.cocoapods
 kill $(lsof -ti:3000)
 ----------------------------------------------Gradle sync failed with reason unknown-------------------------------------------------------------------------------
 https://stackoverflow.com/questions/68173478/gradle-sync-failed-with-reason-unknown-android-studio4-2-1
+----------------------------------Great article for setting up Firebase Push Notifications with React Native App---------------------------------------------------https://medium.com/alameda-dev/react-native-push-notifications-with-firebase-d23ed0dfb3ae
