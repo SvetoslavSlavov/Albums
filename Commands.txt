@@ -570,3 +570,5 @@ kill $(lsof -ti:3000)
 https://stackoverflow.com/questions/68173478/gradle-sync-failed-with-reason-unknown-android-studio4-2-1
 ----------------------------------Great article for setting up Firebase Push Notifications with React Native App---------------------------------------------------
 https://medium.com/alameda-dev/react-native-push-notifications-with-firebase-d23ed0dfb3ae
+--------------------------------------------------Single APNs key on multiple applications in one organisation-----------------------------------------------------
+https://stackoverflow.com/questions/61747419/single-apns-key-on-multiple-applications-in-one-organisation/61747765#61747765
