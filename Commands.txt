@@ -576,3 +576,7 @@ https://stackoverflow.com/questions/61747419/single-apns-key-on-multiple-applica
 https://medium.com/mac-os-x/how-to-mirror-your-smart-phone-screen-in-mac-os-x-2daf018aae4d
 ---------------------------------------------------Write a emoji from keyboard------------------------------------------------------------------------------------
 Control + Command + Space
+-------------------------------------------------------Visual testing, Screenshot testing-----------------------------------------------------------------
+https://percy.io/
+---------------------------------------------------------End to end testing-------------------------------------------------------------------------------
+https://playwright.dev/
