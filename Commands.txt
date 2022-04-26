@@ -580,3 +580,5 @@ Control + Command + Space
 https://percy.io/
 ---------------------------------------------------------End to end testing-------------------------------------------------------------------------------
 https://playwright.dev/
+---------------------------------------------------------Peer dependancies--------------------------------------------------------------------------------
+https://blog.bitsrc.io/understanding-peer-dependencies-in-javascript-dbdb4ab5a7be
