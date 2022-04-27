@@ -584,3 +584,5 @@ https://playwright.dev/
 https://blog.bitsrc.io/understanding-peer-dependencies-in-javascript-dbdb4ab5a7be
 ---------------------------------------------------------Generating apk from Android Studio---------------------------------------------------------------
 https://developer.android.com/studio/run
+-----------------------------------------------------Semantic Versioning----------------------------------------------------------------------------------
+https://semver.org/
