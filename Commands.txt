@@ -586,3 +586,6 @@ https://blog.bitsrc.io/understanding-peer-dependencies-in-javascript-dbdb4ab5a7b
 https://developer.android.com/studio/run
 -----------------------------------------------------Semantic Versioning----------------------------------------------------------------------------------
 https://semver.org/
+----------------------------------------------------Code generator variants-------------------------------------------------------------------------------
+https://blog.logrocket.com/automatically-generate-react-components-plop-js/
+https://ihatetomatoes.net/how-to-speed-up-your-front-end-development-workflow-with-hygen-io/
