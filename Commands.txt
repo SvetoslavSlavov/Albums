@@ -589,3 +589,6 @@ https://semver.org/
 ----------------------------------------------------Code generator variants-------------------------------------------------------------------------------
 https://blog.logrocket.com/automatically-generate-react-components-plop-js/
 https://ihatetomatoes.net/how-to-speed-up-your-front-end-development-workflow-with-hygen-io/
+--------------------------------------------------Generate typescript components from svgs----------------------------------------------------------------
+https://react-svgr.com
+npx @svgr/cli --out-dir dist --typescript -- /Users/svetoslav/icons/assets
