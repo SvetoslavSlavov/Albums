@@ -592,3 +592,7 @@ https://ihatetomatoes.net/how-to-speed-up-your-front-end-development-workflow-wi
 --------------------------------------------------Generate typescript components from svgs----------------------------------------------------------------
 https://react-svgr.com
 npx @svgr/cli --out-dir dist --typescript -- /Users/svetoslav/icons/assets
+-------------------------------------------------Batch rename terminal------------------------------------------------------------------------------------
+find . -name '*\filled*' | while read f; do mv "$f" "${f//\filled/}"; done
+--------------------------------------------------Rename mac----------------------------------------------------------------------------------------------
+Mark all files -> right click on mouse -> Rename -> Find -> Replace with
