@@ -10,7 +10,7 @@
 		"axios": "^0.16.2",
 		"eslint-config-rallycoding": "^3.2.0",
 		"react": "16.0.0-alpha.12",
-		"react-native": "0.47.0"
+		"react-native": "0.70.2"
 	},
 	"devDependencies": {
 		"babel-jest": "20.0.3",
