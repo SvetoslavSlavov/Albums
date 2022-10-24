@@ -596,3 +596,5 @@ npx @svgr/cli --out-dir dist --typescript -- /Users/svetoslav/icons/assets
 find . -name '*\filled*' | while read f; do mv "$f" "${f//\filled/}"; done
 --------------------------------------------------Rename mac----------------------------------------------------------------------------------------------
 Mark all files -> right click on mouse -> Rename -> Find -> Replace with
+----------------------------------------------------------Rebase------------------------------------------------------------------------------------------
+https://stackoverflow.com/questions/53066369/fast-forward-merge-is-not-possible-to-merge-this-request-first-rebase-locally
