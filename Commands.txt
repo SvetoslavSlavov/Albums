@@ -601,3 +601,5 @@ https://stackoverflow.com/questions/53066369/fast-forward-merge-is-not-possible-
 -----------------------------------------------Your branch is ahead of origin/master origin/main by n number commits--------------------------------------
 https://stackoverflow.com/questions/16288176/your-branch-is-ahead-of-origin-master-by-3-commits
 git reset --hard origin/main
+--------------------------------------------------------Filter CSS----------------------------------------------------------------------------------------
+https://css-tricks.com/almanac/properties/f/filter/
