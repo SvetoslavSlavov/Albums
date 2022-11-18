@@ -603,3 +603,7 @@ https://stackoverflow.com/questions/16288176/your-branch-is-ahead-of-origin-mast
 git reset --hard origin/main
 --------------------------------------------------------Filter CSS----------------------------------------------------------------------------------------
 https://css-tricks.com/almanac/properties/f/filter/
+--------------------------Delete local branch to receive direclty the latest branch changes and not solve conflicts---------------------------------------
+git branch -D branchName
+git pull
+git checkout branchName
