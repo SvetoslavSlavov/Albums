@@ -612,3 +612,5 @@ git checkout branchName
 https://stackoverflow.com/questions/22682870/how-can-i-undo-pushed-commits-using-git
 2.Push the closed branch again to the repository
 3.Merge the branch with changing the name of the commit from the gitlab checkbox
+----------------------------------------------------VS code problem with Error loading webview: Error: Could not register service workers: InvalidStateError: Failed to register a ServiceWorker: The document is in an invalid state..-------------------------------------------------------------
+code . --no-sandbox
