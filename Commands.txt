@@ -607,3 +607,8 @@ https://css-tricks.com/almanac/properties/f/filter/
 git branch -D branchName
 git pull
 git checkout branchName
+---------------------------------------------------Delete committed commit to master from branch--------------------------------------------------------------------------------
+1.Remove the commit from master
+https://stackoverflow.com/questions/22682870/how-can-i-undo-pushed-commits-using-git
+2.Push the closed branch again to the repository
+3.Merge the branch with changing the name of the commit from the gitlab checkbox
