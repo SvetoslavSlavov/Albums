@@ -616,3 +616,5 @@ https://stackoverflow.com/questions/22682870/how-can-i-undo-pushed-commits-using
 code . --no-sandbox
 ---------------------------------------------------How do I "un-revert" a reverted Git commit------------------------------------------------------------
 https://stackoverflow.com/questions/8728093/how-do-i-un-revert-a-reverted-git-commit
+-------------------------------------------------------Responsive Images picture tag---------------------------------------------------------------------
+https://www.w3schools.com/tags/tag_picture.asp
