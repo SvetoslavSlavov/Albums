@@ -624,3 +624,5 @@ npm config set https-proxy null
 npm config set registry http://registry.npmjs.org/
 ----------------------------------------------Load emulators on a separate window-------------------------------------------------------------------------
 https://stackoverflow.com/questions/70986530/android-studio-emulator-in-a-separate-window
+-----------------------------------------Generating GPG keypair to receive an encrypted file that only you can open---------------------------------------
+https://www.redhat.com/sysadmin/creating-gpg-keypairs
