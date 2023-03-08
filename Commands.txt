@@ -622,3 +622,5 @@ https://www.w3schools.com/tags/tag_picture.asp
 npm config set proxy null
 npm config set https-proxy null
 npm config set registry http://registry.npmjs.org/
+----------------------------------------------Load emulators on a separate window-------------------------------------------------------------------------
+https://stackoverflow.com/questions/70986530/android-studio-emulator-in-a-separate-window
