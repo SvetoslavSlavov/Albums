@@ -628,3 +628,5 @@ https://stackoverflow.com/questions/70986530/android-studio-emulator-in-a-separa
 https://www.redhat.com/sysadmin/creating-gpg-keypairs
 -------------------------------------------Convert p12 certificate to base64 string-----------------------------------------------------------------------
 base64 -i certificate.p12 -o outputfile
+-----------------------------------------------Set up ESLint, Prettier, Commitizen, Husky-----------------------------------------------------------------
+https://jamesandrewwright.com/articles/commitizen-eslint-prettier-husky/
