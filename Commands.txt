@@ -630,3 +630,5 @@ https://www.redhat.com/sysadmin/creating-gpg-keypairs
 base64 -i certificate.p12 -o outputfile
 -----------------------------------------------Set up ESLint, Prettier, Commitizen, Husky-----------------------------------------------------------------
 https://jamesandrewwright.com/articles/commitizen-eslint-prettier-husky/
+-------------------------------------------Publish private npm package with github actions and packages---------------------------------------------------
+https://jamesandrewwright.com/articles/publish-private-npm-package-with-github-actions/
