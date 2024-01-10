@@ -634,3 +634,5 @@ https://jamesandrewwright.com/articles/commitizen-eslint-prettier-husky/
 https://jamesandrewwright.com/articles/publish-private-npm-package-with-github-actions/
 ---------------------------------------------------Running Github Actions Sequentlly----------------------------------------------------------------------
 https://stevenmortimer.com/running-github-actions-sequentially/
+-----------------------------------------------------------Use git-secret to encrypt secrets useful commands------------------------------------
+https://www.pascallandau.com/blog/git-secret-encrypt-repository-docker/#export-list-and-import-public-gpg-keys
